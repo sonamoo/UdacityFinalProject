@@ -1,5 +1,6 @@
 ## IP Address & SSH port
-- Public IP: 13.59.188.21
+Public IP: 13.59.188.21
+
 | Application | Protocol | Port range
 | ------------|----------|-------
 | SSH         | TCP      | 220
